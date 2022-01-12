@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chrizftw.cf.cf/sitemap.xml
